@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JordyvanEngelshoven
-- 👀 I’m interested in getting started with Unity and Solidity
-- 🌱 I’m currently learning C#,Python and Solidity
-- 💞️ I’m looking to collaborate on microcap cryptocurrencies
+- 👀 I’m working on a SaaS multitenant web based application
+- 🌱 I’m currently learning about artificial intelligence and clean code architecture
 - 📫 How to reach me ...
 
 <!---
